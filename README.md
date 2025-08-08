@@ -84,12 +84,12 @@ npm run start
 ```
 The app will open at http://localhost:3000.
 
-###  Screenshots
-#### Desktop View
+#  Screenshots
+## Desktop View
 
 ![Desktop View](./public/DriveVistaDeskImg.png)
 
-#### Mobile View
+## Mobile View
 
 ![Mobile View](./public/DriveVistaMobImg.jpg)
 
