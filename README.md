@@ -33,17 +33,31 @@ It delivers an industry-level user experience with an interactive UI, adaptive l
 DriveVista/
 ├── public/
 │ ├── index.html
-│ └── favicon.ico
+│ └── manifest.json
+
+
 ├── src/
-│ ├── components/
-│ │ ├── Header/
-│ │ ├── Card/
-│ │ ├── List/
-│ │ └── Map/
-│ ├── api/
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
+│ ├── Images/
+│ │ ├── darkLogo.png
+│ │ └── logo.jpeg
+│├── About.js
+│├── App.css
+│├── App.js
+│├── Card.js
+│├── Cars.js
+│├── CarsCatalogue.js
+│├── Contact.jsx
+│├── FeaturedCars.js
+│├── Financing.js
+│├── Footer.js
+│├── Header.js
+│├── Hero.js
+│├── Steps.js
+│├── carCards.js
+│├── index.css
+│├── index.js
+│├── indexCarBuyPage.js
+│├── shoppingCartPage.js
 └── package.json
 
 ```
@@ -66,7 +80,7 @@ npm install
 ```
 ### 3️⃣ Start Development Server
 ```
-npm start
+npm run start
 ```
 The app will open at http://localhost:3000.
 
@@ -75,8 +89,13 @@ Desktop View
 ![Desktop View](./public/DriveVistaDeskImg.png)
 
 Mobile View
-![Mobile View](./public/DriveVistaMobImg.png)
+![Mobile View](./public/DriveVistaMobImg.jpg)
 
-🤝 Contributing
+# Contributing
 Contributions are welcome!
 Please fork the repository and submit a pull request.
+---
+# Contact
+Email: mohamadhalal20@gmail.com
+
+
